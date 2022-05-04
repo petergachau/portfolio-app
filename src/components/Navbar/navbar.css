@@ -1,0 +1,25 @@
+.na{
+    display: flex;
+    flex-direction: row !important;
+    justify-content: space-evenly;
+    color: aliceblue;
+    
+}
+.navh-link{
+    
+    flex-direction: row;
+    color: rgb(239, 241, 243);
+    justify-content: space-around;
+    margin: 3rem;
+   
+}
+.content{
+    
+    padding: 12px;
+}
+@media only screen and (max-width: 568px) {
+    .navh-link{
+        display: flex;
+        flex-wrap: wrap;
+    }   
+}

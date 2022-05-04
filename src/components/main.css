@@ -1,0 +1,16 @@
+.home-container{
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    min-height: 480px;
+    background-image: url('../Assets/Home/bg.jpg');
+
+}
+.main{
+    margin-top: 10rem;
+}
+/* .footer{
+    margin-top: 0rem !important;
+    background-color: whitesmoke;
+} */
