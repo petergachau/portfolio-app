@@ -46,7 +46,7 @@ const Projects = () => {
         </div>
         </div>
         <div className="card-projects">
-          <h4 className='project-title'>MongoDb database</h4>
+          <h4 className='project-title'>MongoDb </h4>
           <div className='native'>
           <div className="rating"></div><span className='embend'></span>
         </div>

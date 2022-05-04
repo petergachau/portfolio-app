@@ -171,7 +171,7 @@ margin-left: 00.0rem;
   box-shadow: #1f2235;
 }
 .hed{
-  font-size: 14px !important;
+  font-size: 25px !important;
   color: antiquewhite;
 }
 .link{
@@ -221,6 +221,7 @@ margin-bottom: 1rem;
   /* align-items: center; */
   background-color: beige;
   
+  
 }
 .form-input{
   width: 15rem;
@@ -228,7 +229,8 @@ margin-bottom: 1rem;
   align-items: center;
   justify-content: center;
   margin: 1rem;
-  margin-left: 0rem;
+ 
+  
 }
 .text-area{
   width: 20rem;
@@ -239,9 +241,11 @@ margin-bottom: 1rem;
 }
 .form-details{
   display: flex;
+  margin-left: 7rem ;
 }
 .label{
   margin: 1rem;
+  
 }
 .text{
 margin-left: 8rem;
@@ -307,4 +311,7 @@ margin-left: 8rem;
   .form-details{
     
   }
+}
+.p{
+  font-size: 50px;
 }
